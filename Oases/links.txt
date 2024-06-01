@@ -1,0 +1,14 @@
+llms etc
+
+llms and ai's
+https://ollama.com/library/llama3
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+https://huggingface.co/spaces/KingNish/OpenGPT-4o
+https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
+
+datasets
+https://huggingface.co/datasets/timpearce/linkedin_posts-en-opus-mt-fr-en/viewer/default/train?p=1
+
+https://www.kaggle.com/datasets/shreyasajal/linkedin-influencers-data
+
+https://www.kaggle.com/datasets/shreyasajal/linkedin-company-pages-data

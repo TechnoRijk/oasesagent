@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "linkedin-poster"
+version = "0.0.0"
+description = "A linkedin poster agency"
+authors = ["TechnoRIjk"]
+license = "coming soon..."
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
