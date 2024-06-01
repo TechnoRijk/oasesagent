@@ -1,3 +1,2 @@
 bubble/lib/python3.11/site-packages/lance/lance.abi3.so filter=lfs diff=lfs merge=lfs -text
 bubble/lib/python3.11/site-packages/pyarrow/libarrow.so.1601 filter=lfs diff=lfs merge=lfs -text
-*.filetype filter=lfs diff=lfs merge=lfs -text
